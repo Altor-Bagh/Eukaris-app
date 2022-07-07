@@ -7,5 +7,5 @@ The whole app is built in python, so, in order to run it, just pip install the r
 
 ### Instructions
 
-To use the app, in the landing page, input your address and confirm it with the button. Then fill out the rest of the form with the desired values, press the form button and move to the results page.
+To use the app, input your address in the landing page and confirm it with the button. Then fill out the rest of the form with the desired values, press the send-form button and move to the results page using the navigation bar.
 
