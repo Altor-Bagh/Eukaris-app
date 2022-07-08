@@ -9,5 +9,5 @@ style = {"padding": "1rem 1rem"}
 layout = html.Div([
     html.H2("Team 181"),
     html.Hr(),
-    html.H4("We're so cool, give us prize!")
+    html.H4("Made with love to help our good friend Bob, who could sell his house and take vacations in the Bahamas.")
 ], style=style)
